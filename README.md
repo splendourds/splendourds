@@ -1,9 +1,14 @@
 <div align="center">
 
-# SPLENDOUR DIGITAL SERVICES
-**CAC Registration Number: RC 9450128**
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SPLENDOUR%20DIGITAL%20SERVICES&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Enterprise%20Software%20%7C%20Healthcare%20Informatics%20%7C%20Data%20Solutions&descAlignY=58&descSize=16" width="100%" />
 
-*Building Enterprise, Healthcare, and Educational Solutions for the Digital Future*
+<br />
+
+<!-- CAC REGISTRATION & CORPORATE BADGES -->
+![CAC Registration](https://img.shields.io/badge/CAC%20REGISTERED-RC%209450128-0052CC?style=for-the-badge&labelColor=001529)
+![Established](https://img.shields.io/badge/ESTABLISHED-2018-008080?style=for-the-badge&labelColor=002828)
+![Location](https://img.shields.io/badge/LOCATION-Hadejia%2C%20Jigawa%2C%20Nigeria-FF5722?style=for-the-badge&labelColor=331100)
 
 </div>
 
@@ -11,46 +16,43 @@
 
 ## Executive Profile
 
-**Splendour Digital Services** is a technology firm established in 2018, specializing in full-stack software development, automated local-server systems, data analysis, and healthcare informatics. Led by a full-stack developer and Registered Nurse, our systems bridge the gap between complex software architecture and high-impact real-world operations in healthcare, education, and commerce.
+**Splendour Digital Services** is a technology engineering firm established in 2018 (CAC RC 9450128) specializing in full-stack software development, automated local-server architectures, data analysis systems, and healthcare informatics. 
+
+Led by a full-stack software developer and Registered Nurse, our organization bridges the gap between software engineering and critical real-world operations in healthcare, education, and commerce.
 
 ---
 
-## Core Technical Competencies
+## Professional Tech Stack & Infrastructure
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Software Architecture** | Full-Stack Development, Offline-First Architecture, Local-Area Network (LAN) Systems |
-| **Frontend Engineering** | HTML5, CSS3, JavaScript, Responsive UI Layouts |
-| **Backend & Databases** | Node.js (Native HTTP / REST APIs), MySQL, SQLite, PostgreSQL |
-| **Healthcare Informatics** | Clinical Decision Support, Electronic Health Records (EHR), Nursing Care Planning |
-| **Data Analytics** | SplendourStat, Statistical Computation, Data Visualization & Interpretation |
-
----
-
-## Featured Software Solutions
-
-- **ECast App:** Student Union Government (SUG) electronic voting platform deployed for the Jigawa State College of Nursing Sciences, Birnin Kudu Campus.
-- **School Exam Manager:** Comprehensive terminal examination management software implemented at Model Boarding Primary and Junior Secondary School, Guri.
-- **SplendourCare Clinical Suite:** A specialized healthcare tool designed to support clinical reasoning, patient care tracking, and medical record management.
-- **Business Management Systems:** Custom automated multi-role POS and management software deployed for corporate entities including Liberty Computers, Hamza Me Mai Investment, MMY Collections, and Hadejia Computers.
-- **Examination Management Systems v2.0:** Scalable evaluation platforms tailored for secondary and tertiary educational institutions.
-
----
-
-## Corporate Contact & Office Information
-
-- **Company Name:** Splendour Digital Services
-- **Registration:** CAC RC 9450128
-- **Office Location:** KM 1B Nguru Road, Opposite ABJ & H Store, Hadejia, Jigawa State, Nigeria
-- **Primary Emails:** 
-  - spghja@gmail.com
-  - splendourng@hotmail.com
-- **Direct Lines:** 
-  - +234 803 883 7900
-  - +234 704 075 5080
-- **GitHub Profile:** [github.com/splendourds](https://github.com/splendourds)
-
----
 <div align="center">
-  <em>Splendour Digital Services. All rights reserved.</em>
+
+| Layer | Tools & Technologies |
+| :--- | :--- |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend & Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Healthcare & Data** | ![SplendourCare](https://img.shields.io/badge/Clinical-SplendourCare%20Suite-107C41?style=flat-square) ![SplendourStat](https://img.shields.io/badge/Analytics-SplendourStat-8E44AD?style=flat-square) |
+| **Productivity Tools** | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white) |
+
 </div>
+
+---
+
+## Core Product Ecosystem
+
+<div align="center">
+
+```text
+               ┌─────────────────────────────────────────────────────────┐
+               │              SPLENDOUR DIGITAL SERVICES                 │
+               └────────────────────────────┬────────────────────────────┘
+                                            │
+         ┌─────────────────────────┬────────┴────────┬─────────────────────────┐
+         ▼                         ▼                 ▼                         ▼
+┌──────────────────┐     ┌──────────────────┐┌───────────────┐     ┌──────────────────────┐
+│  HEALTHCARE TECH │     │  EDUCATION TECH  ││ BUSINESS TECH │     │   DATA & ANALYTICS   │
+├──────────────────┤     ├──────────────────┤├───────────────┤     ├──────────────────────┤
+│ SplendourCare    │     │ School Manager   ││ POS Automation│     │ SplendourStat        │
+│ Clinical Suite   │     │ Exam Manager v2  ││ Local Servers │     │ Statistical Analysis │
+│ Local EHR System │     │ ECast Voting App ││ Enterprise LAN│     │ Data Charts & Graphs │
+└──────────────────┘     └──────────────────┘└───────────────┘     └──────────────────────┘
