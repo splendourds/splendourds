@@ -22,6 +22,7 @@
 <br />
 
 <div align="center">
+  <a href="https://splendourdigitals.com/"><img src="https://img.shields.io/badge/WEBSITE-splendourdigitals.com-0052CC?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="#-executive-profile"><img src="https://img.shields.io/badge/PROFILE-0052CC?style=flat-square&logo=readme&logoColor=white" alt="Profile" /></a>
   <a href="#-services--specialisations"><img src="https://img.shields.io/badge/SERVICES-008080?style=flat-square&logo=stackshare&logoColor=white" alt="Services" /></a>
   <a href="#-product-ecosystem"><img src="https://img.shields.io/badge/PRODUCTS-107C41?style=flat-square&logo=producthunt&logoColor=white" alt="Products" /></a>
@@ -351,7 +352,9 @@ Our portfolio spans school management and examination systems, CBT platforms, bu
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OFFICE-KM%201B%20Nguru%20Road%2C%20Opposite%20ABJ%20%26%20H%20Store%2C%20Hadejia%2C%20Jigawa%2C%20Nigeria-001529?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<a href="https://maps.google.com/?q=KM+1B+Nguru+Road,+Opposite+ABJ+and+H+Store,+Hadejia,+Jigawa,+Nigeria">
+  <img src="https://img.shields.io/badge/OFFICE-KM%201B%20Nguru%20Road%2C%20Opposite%20ABJ%20%26%20H%20Store%2C%20Hadejia%2C%20Jigawa%2C%20Nigeria-001529?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Office Address" />
+</a>
 
 </div>
 
@@ -359,33 +362,33 @@ Our portfolio spans school management and examination systems, CBT platforms, bu
 
 <div align="center">
 
-<a href="mailto:spghja@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-spghja@gmail.com-0052CC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=001529" />
+<a href="https://splendourdigitals.com/">
+  <img src="https://img.shields.io/badge/WEBSITE-splendourdigitals.com-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=001529" alt="Website" />
 </a>
-<a href="mailto:splendourng@hotmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-splendourng@hotmail.com-1E6FDB?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=001529" />
+<a href="mailto:info@splendourdigitals.com">
+  <img src="https://img.shields.io/badge/EMAIL-info%40splendourdigitals.com-1E6FDB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=001529" alt="Email Info" />
 </a>
 
 </div>
 
 <div align="center">
 
+<a href="mailto:support@splendourdigitals.com">
+  <img src="https://img.shields.io/badge/EMAIL-support%40splendourdigitals.com-107C41?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=042b16" alt="Email Support" />
+</a>
 <a href="tel:+2348038837900">
-  <img src="https://img.shields.io/badge/PHONE-%2B234%20803%20883%207900-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b3319" />
+  <img src="https://img.shields.io/badge/PHONE-%2B234%20803%20883%207900-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b3319" alt="Phone 1" />
 </a>
+
+</div>
+
+<div align="center">
+
 <a href="tel:+2347040755080">
-  <img src="https://img.shields.io/badge/PHONE-%2B234%20704%20075%205080-25D366?style=for-the-badge&logo=phone&logoColor=white&labelColor=0b3319" />
+  <img src="https://img.shields.io/badge/PHONE-%2B234%20704%20075%205080-25D366?style=for-the-badge&logo=phone&logoColor=white&labelColor=0b3319" alt="Phone 2" />
 </a>
-
-</div>
-
-<div align="center">
-
 <a href="https://wa.me/2348038837900">
-  <img src="https://img.shields.io/badge/WHATSAPP-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b3319" />
-</a>
-<a href="https://github.com/Splendourds">
-  <img src="https://img.shields.io/badge/GITHUB-Splendourds-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/WHATSAPP-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0b3319" alt="WhatsApp" />
 </a>
 
 </div>
@@ -394,20 +397,30 @@ Our portfolio spans school management and examination systems, CBT platforms, bu
 
 <div align="center">
 
-### 🌐 Social Channels — Being Activated
+### 🌐 Follow Us — Click Any Icon To Connect
 
-<sub><i>Our official social media handles are being established. The handles below are our intended channels and will be live shortly.</i></sub>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/INSTAGRAM-%40SplendourDigitalsNG-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2b0a11" />
-<img src="https://img.shields.io/badge/FACEBOOK-%40SplendourDigitalsNG-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=001a33" />
 <br />
-<img src="https://img.shields.io/badge/TIKTOK-%40SplendourDigitalsNG-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/X%20(TWITTER)-%40SplendourTechNG-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" />
+
+<a href="https://github.com/splendourds" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-%40splendourds-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+</a>
+<a href="https://x.com/splendourds" target="_blank">
+  <img src="https://img.shields.io/badge/X%20(TWITTER)-%40splendourds-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a" alt="X (Twitter)" />
+</a>
 <br />
-<img src="https://img.shields.io/badge/LINKEDIN-Splendour%20Digital%20Services-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001f3d" />
-<img src="https://img.shields.io/badge/WEBSITE-Coming%20Soon-6C757D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1d20" />
+<a href="https://www.instagram.com/splendourds" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-%40splendourds-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=2b0a11" alt="Instagram" />
+</a>
+<a href="https://www.facebook.com/share/1RJRciB8ac/" target="_blank">
+  <img src="https://img.shields.io/badge/FACEBOOK-Splendour%20Digital%20Services-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=001a33" alt="Facebook" />
+</a>
+<br />
+<a href="https://ng.linkedin.com/in/saleh-sulaiman-335a0b449" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-Saleh%20Sulaiman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001f3d" alt="LinkedIn" />
+</a>
+<a href="https://splendourdigitals.com/" target="_blank">
+  <img src="https://img.shields.io/badge/WEBSITE-splendourdigitals.com-6C757D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1d20" alt="Website" />
+</a>
 
 </div>
 
@@ -429,12 +442,12 @@ Our portfolio spans school management and examination systems, CBT platforms, bu
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Splendourds&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=008080&text_color=9aa7b8&rank_icon=github" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splendourds&layout=compact&hide_border=true&bg_color=00000000&title_color=00C2FF&text_color=9aa7b8" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=splendourds&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C2FF&icon_color=008080&text_color=9aa7b8&rank_icon=github" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splendourds&layout=compact&hide_border=true&bg_color=00000000&title_color=00C2FF&text_color=9aa7b8" alt="Top Languages" />
 
 <br /><br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Splendourds&bg_color=00000000&color=00C2FF&line=008080&point=FF5722&area=true&hide_border=true" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=splendourds&bg_color=00000000&color=00C2FF&line=008080&point=FF5722&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
